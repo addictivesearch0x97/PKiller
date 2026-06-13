@@ -15,7 +15,7 @@ No complicated setup — just run, patch, and go.
 
 ### 📥 Installation (TermuxVoid Repository)
 ```
-curl -sL https://termuxvoid.github.io/repo/install.sh | bash
+curl -sL https://github.com/termuxvoid/repo/raw/main/install.sh | bash
 ```
 
 ### Install PKiller
